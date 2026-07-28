@@ -1,0 +1,6 @@
+{
+  "name": "Bella Luna Salon",
+  "description": "Modern, luxurious, and glamorous hair and beauty salon in Riverside District, Austin, TX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
